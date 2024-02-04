@@ -1,0 +1,8 @@
+Total: 1977
+Mean: 250.7840161861406
+Median: 247.0
+Mode: 230.0
+Standard Deviation: 144.17131868884059
+Variance: 20785.369132479238
+
+Execution time: 0.0169680118560791

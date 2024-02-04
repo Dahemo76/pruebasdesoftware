@@ -1,0 +1,8 @@
+Total: 400
+Mean: 242.32
+Median: 239.5
+Mode: N/A EXISTE MAS DE UNA MODA
+Standard Deviation: 145.25810683056557
+Variance: 21099.917599999997
+
+Execution time: 0.005018949508666992
